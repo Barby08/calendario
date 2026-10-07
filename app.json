@@ -13,7 +13,9 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.barby08.misemana",
       "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFF6FB"
       }
     },
